@@ -23,8 +23,9 @@ My flagship collection of NPM packages designed to enhance developer productivit
 | Package | Description | Downloads |
 |---------|-------------|-----------|
 | [**PII-PALADIN**](https://github.com/jeeem/PII-PALADIN) | 🛡️ Node.js PII detection with ML models & regex | ![npm](https://img.shields.io/npm/dm/pii-paladin) |
-| [**PII-PALADIN-LITE**](https://github.com/jeeem/PII-PALADIN-LITE) | ⚡ Browser-compatible PII detection (5KB bundle) | ![npm](https://img.shields.io/npm/dm/pii-paladin-lite) |
-| [**PII-PALADIN-INTERNATIONAL**](https://github.com/jeeem/PII-PALADIN-INTERNATIONAL) | 🌍 Global PII detection across 60+ countries | ![npm](https://img.shields.io/npm/dm/pii-paladin-international) |
+| [**PII-PALADIN-LITE**](https://github.com/jeeem/PII-PALADIN-LITE) | ⚡ Lightning-fast browser PII detection in just 2 lines of code (5KB bundle) | ![npm](https://img.shields.io/npm/dm/pii-paladin-lite) |
+| [**PII-PALADIN-INTERNATIONAL**](https://github.com/jeeem/PII-PALADIN-INTERNATIONAL) | 🌍 Enterprise-grade global PII detection across 60+ countries using Aparavi DTC API | ![npm](https://img.shields.io/npm/dm/pii-paladin-international) |
+| [**PII-PALADIN-HIPAA**](https://github.com/jeeem/PII-PALADIN-HIPAA) | 🏥 HIPAA-compliant PII anonymization for healthcare data using Aparavi DTC AI | ![npm](https://img.shields.io/npm/dm/pii-paladin-hipaa) |
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +54,9 @@ My flagship collection of NPM packages designed to enhance developer productivit
   </a>
   <a href="https://github.com/jeeem/PII-PALADIN-INTERNATIONAL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeem&repo=PII-PALADIN-INTERNATIONAL&theme=radical&hide_border=true" alt="PII-PALADIN-INTERNATIONAL">
+  </a>
+  <a href="https://github.com/jeeem/PII-PALADIN-HIPAA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeem&repo=PII-PALADIN-HIPAA&theme=radical&hide_border=true" alt="PII-PALADIN-HIPAA">
   </a>
 </div>
 
