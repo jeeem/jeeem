@@ -1,9 +1,15 @@
-# 🎭 James Tucker (jeeem)
+```
+  _____ _                     _ __  __ _       _ 
+ / ____| |                   (_) |  | (_)     | |
+| (___ | |_ __ _ _ __   __ _ _| |  | |_ _ __ | |_
+ \___ \| __/ _` | '_ \ / _` | | |  | | | '_ \| __|
+ ____) | || (_| | | | | (_| | | |__| | | | | | | |_
+|_____/ \__\__,_|_| |_|\__, |_|\____/|_|_| |_|\__|
+                        __/ |                      
+                       |___/                       
+```
 
-<div align="center">
-  <h1>🎭 James Tucker</h1>
-  <em>Full-Stack Developer & Open Source Contributor</em>
-</div>
+# 🎭 James Tucker (jeeem)
 
 ---
 
@@ -42,7 +48,7 @@ My flagship collection of NPM packages designed to enhance developer productivit
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeeem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeem&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeem&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
 ## 🚀 Featured Projects
