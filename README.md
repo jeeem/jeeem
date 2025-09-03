@@ -12,10 +12,10 @@
 ```json
 {
   "name": "James Tucker 🎭",
-  "title": "JavaScript Developer | Node.js Enthusiast | React Builder",
-  "specialties": ["Vanilla JS", "Node.js", "React", "NPM Packages"],
-  "stack": ["JavaScript", "Node.js", "React", "Express", "Vanilla JS"],
-  "passions": ["Clean Code", "JavaScript Ecosystem", "Open Source", "Web Development"]
+  "title": "JavaScript Developer | [Node, React] | [MERN STACK]",
+  "specialties": ["Vanilla JS", "Node.js", "React", "MongoDB", "Express"],
+  "stack": ["JavaScript", "Node.js", "React", "Express", "MongoDB"],
+  "passions": ["Vibe Coding", "JavaScript Ecosystem", "Open Source", "Web Development"]
 }
 ```
 
@@ -31,11 +31,11 @@ My flagship collection of NPM packages designed to enhance developer productivit
 
 ## 🛠️ Tech Stack
 
-| ⭐ **JavaScript Core** | 🚀 **Node.js Ecosystem** | ⚛️ **React & Frontend** | 🛠️ **Tools & Libraries** | 🌟 **Development** |
-|------------------------|---------------------------|-------------------------|---------------------------|-------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ⭐ **JavaScript Core** | 🚀 **MERN Stack** | ⚛️ **React & Frontend** | 🛠️ **Tools & Libraries** | 🌟 **Development** |
+|------------------------|-------------------|-------------------------|---------------------------|-------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![NPM Scripts](https://img.shields.io/badge/NPM_Scripts-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 ## ⭐ GitHub Stats
 
