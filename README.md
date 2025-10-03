@@ -79,5 +79,5 @@ My flagship collection of NPM packages designed to enhance developer productivit
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeeem&style=flat-square&color=blue" alt="Profile Views">
   <br>
-  <em>🎭 "It takes an idiot to do cool things. That's why it's cool." - FLCL</em>
+  <em>🎭 It takes an idiot to do cool things. That's why it's cool.</em>
 </div>
